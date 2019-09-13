@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eweiveosi.devshard.com/sitemap.xml
